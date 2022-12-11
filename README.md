@@ -1,0 +1,4 @@
+- 👋 Hi, I’m **@1upxu4**
+- 👀 I’m interested in **computer programming**
+- 🌱 I’m currently learning **Python** and **Cryptography**
+- 📫 1upxu4@gmail.com
